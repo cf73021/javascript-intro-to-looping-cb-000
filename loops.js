@@ -15,6 +15,6 @@ function whileLoop(number) {
 
 function doWhileLoop(array) {
   do {console.log(--array)}
-  while (n > 0);
+  while (array > 0);
   return 'done'
 }
